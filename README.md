@@ -22,6 +22,8 @@ We select 100 papers from the ACL corpus, which we found corresponding presentat
 
 TBD
 
+> The pre-release data and code are available [here](https://github.com/daviddwlee84/TopicAwarePaperSlideGeneration/releases/tag/v1.0-beta).
+
 ## Citation
 
 If you use our data or approach, please kindly cite it as follows:
